@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Galaxy a556 custom kernel by exynos1480-dev
+kernel.string=Galaxy A55x custom kernel by exynos1480-dev
 do.devicecheck=0
 do.soccheck=1
 do.modules=0
